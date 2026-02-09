@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+doit.sh
+
+# Build artifacts
+tufty-cpp/build/
+
+# SDK and library submodules (large, can be re-cloned)
+tufty-cpp/pico-sdk/
+tufty-cpp/pimoroni-pico/
+tufty-cpp/pico-littlefs/
+tufty-cpp/mklittlefs/
+
+# IDE
+.vscode/
