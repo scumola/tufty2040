@@ -15,3 +15,7 @@ tufty-cpp/mklittlefs/
 
 # IDE
 .vscode/
+
+# CMake build artifacts
+CMakeCache.txt
+CMakeFiles/
